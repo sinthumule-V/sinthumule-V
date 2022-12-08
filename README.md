@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sinthumule-V
 - 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning Ruby & dart
-- 💞️ I’m looking to collaborate on data analytical projects and cloud computing
+- 🌱 I’m currently learning Ruby & react
+- 💞️ I’m looking to collaborate on data web development and cloud computing
 - 📫 How to reach me : sinthumulevhulenda@gmail.com
 
 <!---
